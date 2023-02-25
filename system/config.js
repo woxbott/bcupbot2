@@ -1,7 +1,7 @@
 // Owner number
 global.owner = '6285887776722'
 // Owner name
-global.owner_name = 'Wildan Izzudin'
+global.owner_name = 'mohamed bella'
 // Database name (Default: database)
 global.database = 'database'
 // Maximum upload file size limit (Default : 100 MB)
@@ -30,7 +30,7 @@ global.version = '2.2.2',
 // Bot name
 global.botname = `© neoxr-bot v${global.version} (Public Bot)`
 // Footer text
-global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ɴᴇᴏxʀ ッ'
+global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ BELLA ッ'
 // Global status
 global.status = Object.freeze({
    wait: Func.texted('bold', 'Processed . . .'),
